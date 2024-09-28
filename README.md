@@ -1,2 +1,2 @@
 # Harshit-portfolio
-Hello, This is my friends protfolio 
+Hello, This is my protfolio 
